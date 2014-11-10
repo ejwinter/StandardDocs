@@ -1,0 +1,6 @@
+stdoc.iml
+.idea
+build/
+StandardDoc.iml
+.gradle
+target/
